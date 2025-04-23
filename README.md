@@ -1,5 +1,8 @@
 # Google Login dengan PHP Native
 
+MUHAMMAD RIZKY SAPUTRA | 
+2210631250021 | 
+6B SISTEM INFORMASI
 Proyek ini adalah tugas UTS Web Service App untuk implementasi login menggunakan akun Google melalui OAuth 2.0 dengan PHP native. Proyek ini memanfaatkan Composer untuk mengelola dependensi, khususnya library `google/apiclient`.
 
 ## 🛠️ Prasyarat
@@ -87,8 +90,4 @@ Jika Anda ingin agar orang lain dapat mengakses web Anda:
 
 ## 📄 Lisensi
 
-Proyek ini bebas digunakan untuk keperluan pembelajaran mata kuliah Web Service App demi menyelesaikan studi Sistem Informasi di Universitas Singaperbangsa Karawang
-
-MUHAMMAD RIZKY SAPUTRA
-2210631250021
-6B SISTEM INFORMASI
+Proyek ini bebas digunakan untuk keperluan pembelajaran mata kuliah Web Service App demi menyelesaikan studi Sistem Informasi di Universitas Singaperbangsa Karawang.
